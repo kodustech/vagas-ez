@@ -79,7 +79,7 @@ Conecte-se com outros talentos e compartilhe experiências.
 
 # Algumas das tecnologias que utilizamos
 
-JavaScript, React, React Native, Node.js, Vue.js, Angular,  Flutter, Ionic, .Net Core, MongoDB, MySql, Graphql.
+JavaScript, React, React Native, Node.js, Vue.js, Angular,  Flutter, MongoDB, MySql, Graphql.
 
 # Vamos nessa?
 
