@@ -19,11 +19,11 @@ Conheça um pouco mais sobre nós visitando [nosso site](https://talentos.ezdevs
 
 # O Ecossistema EZ
 
-O mercado de tecnologia está super aquecido: você, dev, recebe algumas mensagens por semana, faz entrevistas, testes técnicos e mais um tanto de avaliações comportamentais.
+O mercado de tecnologia está super aquecido e surgem vagas todos os dias. Então, você, dev, recebe algumas mensagens por semana, faz entrevistas, testes técnicos e mais um tanto de avaliações comportamentais.
 
 Mas, no fim, o quanto dessas informações serão úteis para outras empresas? 
 
-E se a empresa não estiver alinhada com suas expectativas? Se falta uma proposta de impacto? Você precisa começar tudo de novo.  
+E se a empresa não estiver alinhada com suas expectativas? Se falta propósito e uma cultura forte? Você precisa começar tudo de novo.  
 
 Em nosso ecossistema EZ, **você só precisa fazer 1 vez**. 
 
@@ -31,13 +31,14 @@ Após o cadastro na plataforma, que contempla a construção do seu perfil profi
 
 E se for para outra empresa, não precisa refazer nenhum teste.
 
+
 <br />
 
 ## Você no centro
 
-Aqui você fica no centro da relação de trabalho. 
+Fugimos do recrutamento tradicional e colocamos você no centro da relação de trabalho. 
 
-Queremos te proporcionar experiências enriquecedoras e a rampar em sua carreira. 
+Queremos te proporcionar experiências enriquecedoras e a rampar sua carreira. 
 
 Para isso, somos muito criteriosos com as empresas que fazem parte do nosso ecossistema. Buscamos aquelas que prezam pela mesma cultura de **liberdade, bons desafios técnicos e diversidade**.
 
