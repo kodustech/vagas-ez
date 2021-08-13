@@ -90,7 +90,8 @@ Cadastre-se em nosso ecossistema por [esse link](https://app.ezdevs.com.br/cadas
 </div>
 
 <br /><br />
-Nos encontre: 
+
+### Nos encontre: 
 
 [Canal no Youtube](https://youtube.com.br/ezdevs). Conteúdos novos sobre tecnologia e carreira toda semana. 
 
