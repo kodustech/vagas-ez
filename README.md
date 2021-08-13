@@ -13,7 +13,7 @@ A EZ é uma empresa que tem o objetivo de transformar negócios através de **pe
 
 Então para fazer esse objetivo acontecer, nós temos a missão de conectar talentos de tecnologia a Startups e Scale-ups. Para isso construímos **o primeiro marketplace gerenciado de talentos tech full time do Brasil**.
 
-Conheça um pouco mais sobre nós visitando [nosso site](https://talentos.ezdevs.com.br/) 😉 
+Conheça um pouco mais sobre nós visitando [nosso site](https://talentos.ezdevs.com.br/?utm_source=github&ref=g_git) 😉 
 
 <br />
 
@@ -70,21 +70,16 @@ Passamos um terço da nossa vida no trabalho, nada mais juntos que encontrar um 
 <br />
 Altos projetos, altos dinheiros. Aqui a remuneração faz jus aos desafios do dia a dia.
 
-🤳 **Networking**
-<br />
-Conecte-se com outros talentos e compartilhe experiências.
-
-
 
 <br />
 
 # Algumas das tecnologias que utilizamos
 
-JavaScript, React, React Native, Node.js, Vue.js, Angular,  Flutter, MongoDB, MySql, Graphql.
+JavaScript, React, React Native, Node.js, Vue.js, Angular.
 
 # Vamos nessa?
 
-Cadastre-se em nosso ecossistema por [esse link](https://talentos.ezdevs.com.br/cadastro) agora mesmo! 
+Cadastre-se em nosso ecossistema por [esse link](https://app.ezdevs.com.br/cadastro?utm_source=github&ref=g_git) agora mesmo! 
 
 <div align="center">
 	<br />
