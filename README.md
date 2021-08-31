@@ -27,7 +27,7 @@ E se a empresa não estiver alinhada com suas expectativas? Se falta propósito 
 
 Em nosso ecossistema EZ, **você só precisa fazer 1 vez**. 
 
-Após o cadastro na plataforma, que contempla a construção do seu perfil profissional e objetivos de carreira, e de realizar um **processo enxuto, com apenas 3 etapas**, você fica disponível para atuar em *startups* e *scale-ups* da nossa comunidade. 
+Após o cadastro na plataforma, que contempla a construção do seu perfil profissional e objetivos de carreira, e de realizar um **processo enxuto, com apenas 2 etapas**, você fica disponível para atuar em *startups* e *scale-ups* da nossa comunidade. 
 
 E se for para outra empresa, não precisa refazer nenhum teste.
 
