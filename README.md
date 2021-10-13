@@ -13,7 +13,7 @@ A EZ é uma empresa que tem o objetivo de transformar negócios através de **pe
 
 Então para fazer esse objetivo acontecer, nós temos a missão de conectar talentos de tecnologia a Startups e Scale-ups. Para isso construímos **o primeiro marketplace gerenciado de talentos tech full time do Brasil**.
 
-Conheça um pouco mais sobre nós visitando [nosso site](https://talentos.ezdevs.com.br/?utm_source=github&ref=g_git) 😉 
+Conheça um pouco mais sobre nossa plataforma visitando [nosso site](https://talentos.ezdevs.com.br/?utm_source=github&ref=g_git) 😉 
 
 <br />
 
