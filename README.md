@@ -9,9 +9,13 @@
 
 # Quem somos
 
-A EZ é uma empresa que tem o objetivo de transformar negócios através de **pessoas, cultura e tecnologia**. A gente acredita que esses motores são capazes de mudar o rumo de organizações inteiras. 
+Para devs que buscam novas oportunidades, o Ecossistema EZ.Devs oferece um espaço que conecta talentos a empresas alinhadas com seu perfil técnico e cultural.
 
-Então para fazer esse objetivo acontecer, nós temos a missão de conectar talentos de tecnologia a Startups e Scale-ups. Para isso construímos **o primeiro marketplace gerenciado de talentos tech full time do Brasil**.
+Com total transparência nos detalhes e com flexibilidade para trocar de empresa usando o mesmo processo seletivo.
+
+😎 Todas as oportunidades de trabalho são full time e 100% remotas, além de ter boa remuneração + benefícios e um ambiente incrível!
+
+As oportunidades de carreira que irá receber só dependem da sua vontade! Você escolhe onde e com o que trabalhar.
 
 Conheça um pouco mais sobre nossa plataforma visitando [nosso site](https://talentos.ezdevs.com.br/?utm_source=github&ref=g_git) 😉 
 
@@ -75,7 +79,7 @@ Altos projetos, altos dinheiros. Aqui a remuneração faz jus aos desafios do di
 
 # Algumas das tecnologias que utilizamos
 
-JavaScript, React, React Native, Node.js, Vue.js, Angular.
+JavaScript, React, React Native, Node.js, Vue.js, Angular, C#, .NET.
 
 # Vamos nessa?
 
@@ -94,7 +98,5 @@ Cadastre-se em nosso ecossistema por [esse link](https://app.ezdevs.com.br/cadas
 ### Nos encontre: 
 
 [Canal no Youtube](https://youtube.com.br/ezdevs). Conteúdos novos sobre tecnologia e carreira toda semana. 
-
-[EZ.Heroes](https://discord.com/invite/vz6EPh4). Nossa rede de networking de tecnologia no Discord.
 
 Nossas redes. [Linkedin](https://www.linkedin.com/company/ez-devs). [Instagram](https://instagram.com/ez.devs). [Facebook](https://facebook.com/ezdevs).
