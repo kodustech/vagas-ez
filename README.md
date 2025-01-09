@@ -22,22 +22,6 @@
   <br />
 </div>
 
-
-# Quem somos
-
-<i>Criada por devs e feita para devs</i>
-
-🚀 Nós estamos construindo a infraestrutura para ajudar talentos de tecnologia atingirem carreiras de alto crescimento.
-
-<div align="center">
-	<br />
-	<a href="https://www.youtube.com/watch?v=f2nZ_k4OOdQ">
-	<img src="https://user-images.githubusercontent.com/62026908/172405194-c735b7f8-54e9-4758-8c8b-1dc50eed9266.png" alt="Vídeo Manisfesto Ez Devs" width="500" />
-	</a>
-	<br />
-  <br />
-</div>
-
 Doc do Manifesto completo [aqui](https://manifesto.ezdevs.com/).
 
 Conheça um pouco mais sobre nossa plataforma visitando [nosso site](https://talents.ezdevs.com/?utm_source=github&ref=g_git)
